@@ -1,0 +1,4 @@
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\bin\Debug\VB.RedPill.Contracts.dll
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\bin\Debug\VB.RedPill.Contracts.pdb
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\obj\Debug\VB.RedPill.Contracts.dll
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\obj\Debug\VB.RedPill.Contracts.pdb

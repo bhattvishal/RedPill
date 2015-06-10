@@ -1,0 +1,5 @@
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\bin\Release\VB.RedPill.Contracts.dll
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\bin\Release\VB.RedPill.Contracts.pdb
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\obj\Release\VB.RedPill.Contracts.dll
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\obj\Release\VB.RedPill.Contracts.pdb
+D:\Projects\TFSOnline\WebDevelopment\VB.RedPill\VB.RedPill.Contracts\obj\Release\VB.RedPill.Contracts.csprojResolveAssemblyReference.cache

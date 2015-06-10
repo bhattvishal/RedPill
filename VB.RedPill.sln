@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VB.RedPill.Contracts", "VB.RedPill.Contracts\VB.RedPill.Contracts.csproj", "{2155EAFB-3559-4D0E-97A4-94943D1361D2}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "VB.RedPill.CloudHost", "VB.RedPill.CloudHost\VB.RedPill.CloudHost.ccproj", "{A5332569-96FD-4CFB-8C80-120F738E2669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VB.RedPill.WcfRole", "VB.RedPill.WcfRole\VB.RedPill.WcfRole.csproj", "{BDCE24DD-5691-4DB0-B30F-69C8A0A2B32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2155EAFB-3559-4D0E-97A4-94943D1361D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2155EAFB-3559-4D0E-97A4-94943D1361D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2155EAFB-3559-4D0E-97A4-94943D1361D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2155EAFB-3559-4D0E-97A4-94943D1361D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5332569-96FD-4CFB-8C80-120F738E2669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5332569-96FD-4CFB-8C80-120F738E2669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5332569-96FD-4CFB-8C80-120F738E2669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5332569-96FD-4CFB-8C80-120F738E2669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCE24DD-5691-4DB0-B30F-69C8A0A2B32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCE24DD-5691-4DB0-B30F-69C8A0A2B32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCE24DD-5691-4DB0-B30F-69C8A0A2B32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCE24DD-5691-4DB0-B30F-69C8A0A2B32E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vishalbhatt.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VB.RedPill.CloudHost\\VB.RedPill.CloudHost.ccproj
+		SccProjectName1 = VB.RedPill.CloudHost
+		SccLocalPath1 = VB.RedPill.CloudHost
+		SccProjectUniqueName2 = VB.RedPill.Contracts\\VB.RedPill.Contracts.csproj
+		SccProjectName2 = VB.RedPill.Contracts
+		SccLocalPath2 = VB.RedPill.Contracts
+		SccProjectUniqueName3 = VB.RedPill.WcfRole\\VB.RedPill.WcfRole.csproj
+		SccProjectName3 = VB.RedPill.WcfRole
+		SccLocalPath3 = VB.RedPill.WcfRole
+	EndGlobalSection
+EndGlobal
