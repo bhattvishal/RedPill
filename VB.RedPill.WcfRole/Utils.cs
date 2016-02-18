@@ -7,6 +7,11 @@ namespace VB.RedPill.WcfRole
 {
     internal static class Utils
     {
+        /// <summary>
+        /// Calculates the Fibonacci Number for the given number
+        /// </summary>
+        /// <param name="num">Number</param>
+        /// <returns>Fibonacci Number</returns>
         public static long GetFibonacciNumber(long num)
         {
             try
